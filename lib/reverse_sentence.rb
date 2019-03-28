@@ -1,5 +1,5 @@
 # A method to reverse the words in a sentence, in place.
-# Time complexity: O(n)
+# Time complexity: O(n), n is the number of elements in my_words 
 # Space complexity: O(1)
 def reverse_char(my_words, b, e)
   while b < e
